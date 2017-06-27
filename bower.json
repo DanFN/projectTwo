@@ -1,0 +1,24 @@
+{
+  "name": "projectTwo",
+  "homepage": "https://github.com/DanFN/projectTwo",
+  "authors": [
+    "DanFN <josedaniel.sanchez@alumno.uttehuacan.edu.mx>"
+  ],
+  "description": "Este es el segundo proyecto de Boostrap",
+  "main": "index.html",
+  "keywords": [
+    "segundo"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}
